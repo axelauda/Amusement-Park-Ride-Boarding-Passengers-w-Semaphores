@@ -1,1 +1,1 @@
-# Amusement-Park-Ride-Boarding-Passengers-w-Semaphores
+# Amusement Park Ride: Boarding-Passengers w/ Semaphores
